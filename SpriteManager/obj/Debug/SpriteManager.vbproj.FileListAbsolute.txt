@@ -1,0 +1,16 @@
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\bin\Debug\SpriteManager.exe.config
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\bin\Debug\SpriteManager.exe
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\bin\Debug\SpriteManager.pdb
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\bin\Debug\SpriteManager.xml
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\obj\Debug\SpriteManager.vbproj.AssemblyReference.cache
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\obj\Debug\SpriteManager.vbproj.SuggestedBindingRedirects.cache
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\obj\Debug\SpriteManager.Form1.resources
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\obj\Debug\SpriteManager.Resources.resources
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\obj\Debug\SpriteManager.vbproj.GenerateResource.cache
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\obj\Debug\SpriteManager.vbproj.CoreCompileInputs.cache
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\obj\Debug\SpriteManager.exe
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\obj\Debug\SpriteManager.xml
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\obj\Debug\SpriteManager.pdb
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\bin\Debug\AnimatedGif.dll
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\bin\Debug\System.Drawing.Common.dll
+C:\Users\lordm\source\repos\SpriteManager\SpriteManager\obj\Debug\SpriteManager.vbproj.CopyComplete
